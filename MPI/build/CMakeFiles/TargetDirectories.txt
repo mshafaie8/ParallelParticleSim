@@ -1,0 +1,9 @@
+/global/homes/m/mshafaie/hw2-2/build/CMakeFiles/mpi.dir
+/global/homes/m/mshafaie/hw2-2/build/CMakeFiles/package.dir
+/global/homes/m/mshafaie/hw2-2/build/CMakeFiles/package_source.dir
+/global/homes/m/mshafaie/hw2-2/build/CMakeFiles/edit_cache.dir
+/global/homes/m/mshafaie/hw2-2/build/CMakeFiles/rebuild_cache.dir
+/global/homes/m/mshafaie/hw2-2/build/CMakeFiles/list_install_components.dir
+/global/homes/m/mshafaie/hw2-2/build/CMakeFiles/install.dir
+/global/homes/m/mshafaie/hw2-2/build/CMakeFiles/install/local.dir
+/global/homes/m/mshafaie/hw2-2/build/CMakeFiles/install/strip.dir

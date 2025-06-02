@@ -1,0 +1,10 @@
+#!/bin/bash
+#SBATCH -N 1
+#SBATCH -C cpu
+#SBATCH -q debug
+#SBATCH -J mpitest
+#SBATCH --ntasks-per-node=64
+#SBATCH -t 00:30:00
+
+#run the application:
+srun ./mpi
