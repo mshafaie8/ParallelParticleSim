@@ -1,0 +1,4 @@
+/global/homes/m/mshafaie/hw2-1/build/CMakeFiles/rebuild_cache.dir
+/global/homes/m/mshafaie/hw2-1/build/CMakeFiles/edit_cache.dir
+/global/homes/m/mshafaie/hw2-1/build/CMakeFiles/openmp.dir
+/global/homes/m/mshafaie/hw2-1/build/CMakeFiles/serial.dir

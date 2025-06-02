@@ -1,0 +1,1 @@
+/opt/cray/pe/craype/2.7.32/bin/CC -O3 -DNDEBUG CMakeFiles/openmp.dir/main.cpp.o CMakeFiles/openmp.dir/openmp.cpp.o -o openmp  /opt/cray/pe/libsci/24.07.0/GNU/12.3/x86_64/lib/libsci_gnu_mpi_mp.so /opt/cray/pe/libsci/24.07.0/GNU/12.3/x86_64/lib/libsci_gnu_mp.so /usr/lib64/gcc/x86_64-suse-linux/13/libgomp.so 
